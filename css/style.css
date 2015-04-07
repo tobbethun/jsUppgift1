@@ -1,0 +1,29 @@
+h1 {
+	font-size: 4em;
+	letter-spacing: 78pt;
+	margin: 0;
+
+}
+
+#imgSource {
+	height: 600px;
+	width: 800px;
+	overflow: hidden;
+}
+.wrapper {
+	margin:0 auto;
+	width: 800px;
+}
+#btn-right, #btn-left {
+	border-radius: 5px;
+	display: inline-block;
+}
+#btn-right {
+	float: right;
+}
+#btn-left {
+	float: left;
+}
+.img {
+	position: absolute;
+}
